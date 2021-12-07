@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ghaneeyat09.github.io/select_deploy",
   "name": "selection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ghaneeyat09.github.io/select_deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
