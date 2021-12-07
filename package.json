@@ -1,6 +1,6 @@
 {
   "homepage": "http://ghaneeyat09.github.io/select_deploy",
-  "name": "selection",
+  "name": "select_deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
